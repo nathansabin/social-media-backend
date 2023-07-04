@@ -1,4 +1,2 @@
 # social-media-backend
-SQLAlchemy
-Flask 
-mysql-connector-python
+SQLAlchemy Flask mysql-connector-python
